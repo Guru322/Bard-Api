@@ -1,0 +1,24 @@
+{
+    "name": "bard-api",
+    "version": "1.0.0",
+    "description": "Bard Api",
+    "main": "index.js",
+    "homepage": "https://guruapi.tech",
+    "author": {
+        "name": "GURU"
+    },
+    "scripts": {
+      "start": "node google-ki-maa-ki-choot.mjs"
+    },
+    "dependencies": {
+      "bard-ai": "^2.0.3",
+      "express": "^4.17.1",
+      "file-type": "^16.5.4",
+      "form-data": "^4.0.0",
+      "image-type": "^5.2.0",
+      "multer": "^1.4.3",
+      "node-fetch": "^2.6.1",
+      "undici": "^6.5.0"
+    }
+  }
+  
